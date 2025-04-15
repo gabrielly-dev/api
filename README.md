@@ -109,6 +109,6 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 
 ## Contato
 
-Para dúvidas ou suporte, entre em contato:  
-Email: suporte@exemplo.com  
-LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seu-perfil)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielly.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielly-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielly-dev)
